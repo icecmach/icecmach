@@ -10,4 +10,4 @@
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecmach&theme=tokyonight)
 
-<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=icecmach&hide_title=true&hide_border=true&layout=compact&hide=html&theme=tokyonight" />
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=icecmach&hide_title=true&hide_border=true&layout=compact&hide=html&theme=tokyonight&card_width=320" />
