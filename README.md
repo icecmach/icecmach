@@ -1,8 +1,5 @@
 <h1 align="center">Hi there👋, I'm IceCMach</h1>
 
-- 🐧 Arch Linux user
-- 😈 Learning FreeBSD
-
 ### Statistics
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icecmach&theme=dracula)
