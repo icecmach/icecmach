@@ -4,7 +4,7 @@
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icecmach&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=icecmach&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=icecmach&theme=dark)
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecmach&theme=dracula)
 
